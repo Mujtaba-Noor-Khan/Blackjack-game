@@ -3,8 +3,8 @@ User vs computer blackjack game built with python
 
 # Steps to follow:	
 
-Create a deck of 52 cards
-Shuffle the deck
+Create a deck of 52 cards;
+Shuffle the deck;
 Ask the Player for their bet
 Make sure that the Player's bet does not exceed their available chips
 Deal two cards to the Dealer and two cards to the Player
